@@ -1,14 +1,14 @@
 {
   "name": "cli-rusio",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "test commanderjs",
   "main": "index.js",
   "scripts": {
-    "start": "node myCLI.js",
+    "start": "node index.js",
     "test": "hello-world"
   },
   "bin": {
-    "my-cli": "./myCLI.js"
+    "mdlinks": "./index.js"
   },
   "author": "j4rek",
   "license": "MIT",
